@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SkNoman
+- 👋 Hi, I’m Sk Noman
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on android development
-- 📫 How to reach me Email:<a href="sknoman77@gmail.com">
+- 🌱 I’m currently learning Android Development.
+- 💞️ I’m looking to collaborate on android development.
+- 📫 How to reach me Email:sknoman77@gmail.com
 
 <!---
 SkNoman/SkNoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
