@@ -1,8 +1,7 @@
 - 👋 Myself Shekh Abdullah-Al-Noman
-- Studiet at Daffodil International University
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning Mobile Application Development.
-- 💞️ I’m looking to collaborate on android development.
+- 💞️ I’m looking to collaborate on android projects.
 - 📫 How to reach me Email:sknoman77@gmail.com
 
 
