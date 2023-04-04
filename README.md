@@ -1,6 +1,6 @@
 - 👋 Myself Shekh Abdullah-Al-Noman
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning Mobile Application Development.
+- 🌱 Currently im growing my skill in mobile application development.
 - 💞️ I’m looking to collaborate on android projects.
 - 📫 How to reach me Email:sknoman77@gmail.com
 
